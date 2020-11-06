@@ -1,3 +1,5 @@
 public class Coach {
-    //lớp mô tả thông tin về huấn luyện viên
+    public String Id;
+    public String fullname;
+    
 }
